@@ -92,4 +92,4 @@ Modeling.ipynb : XGBoost 모델 학습 및 예측
 
 📘 작성자: **김필준 (Piljun Kim)**
 📧 [kimpj1997@naver.com](mailto:kimpj1997@naver.com)
-🔗 [포트폴리오 보기](https://notion.so/abbb0b673a594e5899f3ad4a2880e666)
+🔗 [포트폴리오 보기](https://www.notion.so/238481d8bb1080f2a68feea0d4459014)
