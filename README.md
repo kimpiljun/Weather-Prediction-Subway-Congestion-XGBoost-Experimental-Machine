@@ -57,9 +57,7 @@ XGBoost 회귀 모델 사용
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/c09a2587-d320-4123-aee9-6a22aadb5844">
-    <img width="600" src="https://github.com/user-attachments/assets/c09a2587-d320-4123-aee9-6a22aadb5844" alt="지하철 혼잡도 요약 이미지">
-  </a>
+  <img src="https://github.com/user-attachments/assets/c09a2587-d320-4123-aee9-6a22aadb5844" width="800" alt="지하철 혼잡도 요약 이미지">
 </p>
 
 출퇴근 시간대 외에 날씨 변수에 따라 갑작스러운 혼잡 변화 존재
