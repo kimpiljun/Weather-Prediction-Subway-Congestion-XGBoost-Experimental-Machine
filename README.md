@@ -58,7 +58,7 @@ XGBoost 회귀 모델 사용
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/c09a2587-d320-4123-aee9-6a22aadb5844">
-    <img width="400" src="https://github.com/user-attachments/assets/c09a2587-d320-4123-aee9-6a22aadb5844" alt="지하철 혼잡도 요약 이미지">
+    <img width="600" src="https://github.com/user-attachments/assets/c09a2587-d320-4123-aee9-6a22aadb5844" alt="지하철 혼잡도 요약 이미지">
   </a>
 </p>
 
