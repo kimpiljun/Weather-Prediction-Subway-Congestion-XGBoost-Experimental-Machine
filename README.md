@@ -50,7 +50,9 @@ XGBoost 회귀 모델 사용
 
 ## 📈 주요 결과
 
-### 🔬 One_Paper 요약
+### <p align="center">
+  🔬 One_paper summary
+</p>
 <p align="center">
   <a href="https://github.com/사용자이름/레포지토리명/blob/main/기상%20데이터%20기반%20XGBoost를%20활용한%20지하철%20혼잡도%20예측%20및%20모델%20개발%20(2).pdf">
     <img src="https://github.com/user-attachments/assets/c09a2587-d320-4123-aee9-6a22aadb5844" width="600" alt="지하철 혼잡도 예측 시각화 이미지">
